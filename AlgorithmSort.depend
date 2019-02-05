@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1461302533 source:/Users/Tristan/AlgorithmSort/main.cpp
+	<iostream>
+	<fstream>
+
